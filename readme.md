@@ -3,6 +3,7 @@
 - git add
 - git commit -m 'comment'
 - git branch
+- git pull
 
 # push file
 - git push -u origin master
